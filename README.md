@@ -1,0 +1,1 @@
+# construction-hash-calculator
